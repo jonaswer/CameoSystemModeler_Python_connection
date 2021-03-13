@@ -1,4 +1,4 @@
-function distance = PythonParse(time, speed)
+function distance = calculateDistance(time, speed)
  
     cd '<path>'
 
