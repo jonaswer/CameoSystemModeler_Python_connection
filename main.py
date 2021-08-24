@@ -13,5 +13,5 @@ if __name__ == '__main__':
     os.path.join(os.getcwd(), os.path.dirname(__file__)))
     x = float(sys.argv[1])
     y = float(sys.argv[2])
-    sys.stdout.write(str(squared(x,y)))
+    sys.stdout.write(str(multiply(x,y)))
     
